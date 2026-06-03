@@ -1,0 +1,16 @@
+{
+  "name": "codealpha_simple_url_shortener",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Abdul Quddus",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "experss": "^0.0.1-security",
+    "mongodb": "^7.2.0"
+  }
+}
