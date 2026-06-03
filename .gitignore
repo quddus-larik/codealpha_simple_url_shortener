@@ -1,2 +1,9 @@
+# Node.js
 node_modules
+
+# VScode & IDEs
+.vscode
+.idea
+
+# ENVs
 .env
